@@ -1,0 +1,2 @@
+num crossings	time (s)	maj axis (mm)	min axis (mm)	theta (rad )	slope (V/s)
+1629	408041.074813	101.058771	-2.489612	-0.568141	15.523860
